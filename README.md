@@ -1,5 +1,4 @@
-Duplicate confirmation emails sent when Confirm Booking is double-clicked
-
+Title: Duplicate confirmation emails sent when Confirm Booking is double-clicked
 
 
 **Description**
